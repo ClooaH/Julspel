@@ -1,0 +1,15 @@
+canvas {
+    position: absolute;
+}
+
+#stage {
+    position: relative;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url("../img/julspelBG.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
