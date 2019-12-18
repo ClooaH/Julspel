@@ -20,15 +20,6 @@ const levelKey = {
 const groundTypes = ["grass", "ground", "platformC", "platformR", "platformL"];
 
 let sources = {
-    forwardsight: {
-        src: 'img/sprites/julspeltest.png',
-        srcWidth: 192,
-        srcHeight: 192,
-        width: 96,
-        height: 96,
-        offsetX: 0,
-        offsetY: 0
-    },
     player: {
         src: 'img/sprites/cavedude_side2test.png',
         srcWidth: 1248,
