@@ -165,7 +165,7 @@ let sources = {
         offsetX: 352,
         offsetY: 320
     },
-    map1: {src: 'img/maps/tomtemap.png'} ,
+    map1: {src: 'img/maps/maptomte1.png'} ,
     map2: {src: 'img/julspelBGtest.png'} ,
     map3: {src: 'img/youlose.png'}
 };

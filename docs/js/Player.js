@@ -6,8 +6,8 @@ class Player
         this.size = new Vector(2, 2);
         this.speed = speed;
         this.xOverlap = 4;
-        this.xSpeed = 8;
-        this.ySpeed = 24; //16
+        this.xSpeed = 10;
+        this.ySpeed = 16;
         this.prevX = prevX;
         this.prevY = prevY;
     }

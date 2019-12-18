@@ -98,7 +98,7 @@ class Canvas {
             this.bgCtx.drawImage(sources.map3.image, 0, 0, this.width, this.height);
         } else {
             this.bgCtx.fillStyle = "rgb(52, 166, 251)";
-            this.bgCtx.drawImage(sources.map2.image, left * 33, top * 63, width * 33, height * 63, 0, 0, this.width, this.height);
+            this.bgCtx.drawImage(sources.map2.image, left * 33.5, top * 57.1, width * 33.5, height * 57.1, 0, 0, this.width, this.height);
         }
         //this.bgCtx.fillRect(0, 0, this.width, this.height);
         let _top = (height - top) * 32;
