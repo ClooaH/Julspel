@@ -48,7 +48,7 @@ let sources = {
         offsetY: 480
     },
     grass: {
-        src: 'img/sprites/cavedude_side2.png',
+        src: 'img/sprites/cavedude_side2test2.png',
         srcWidth: 32,
         srcHeight: 32,
         width: 32,
@@ -57,7 +57,7 @@ let sources = {
         offsetY: 0
     },
     lava: {
-        src: 'img/sprites/cavedude_side2.png',
+        src: 'img/sprites/cavedude_side2test2.png',
         srcWidth: 32,
         srcHeight: 32,
         width: 32,
@@ -66,7 +66,7 @@ let sources = {
         offsetY: 0
     },
     ground: {
-        src: 'img/sprites/cavedude_side2.png',
+        src: 'img/sprites/cavedude_side2test2.png',
         srcWidth: 32,
         srcHeight: 32,
         width: 32,

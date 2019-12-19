@@ -4,7 +4,7 @@ class Lava
     {
         this.pos = pos;
         this.speed = speed;
-        this.size = new Vector(1, 10);
+        this.size = new Vector(1, 50);
         this.reset = reset;
     }
 
